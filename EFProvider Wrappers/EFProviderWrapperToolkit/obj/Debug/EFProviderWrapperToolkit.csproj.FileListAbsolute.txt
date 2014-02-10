@@ -1,0 +1,12 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll.CodeAnalysisLog.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll.lastcodeanalysissucceeded
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll.CodeAnalysisLog.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFProviderWrapperToolkit\bin\Debug\EFProviderWrapperToolkit.dll.lastcodeanalysissucceeded
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFProviderWrapperToolkit\obj\Debug\EFProviderWrapperToolkit.pdb

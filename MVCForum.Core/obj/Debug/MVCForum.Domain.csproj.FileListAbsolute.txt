@@ -1,0 +1,28 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\WebActivator.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\bin\Debug\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\obj\Debug\MVCForum.Domain.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\obj\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Core\obj\Debug\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\WebActivator.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\bin\Debug\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\obj\Debug\MVCForum.Domain.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\obj\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Core\obj\Debug\MVCForum.Domain.pdb

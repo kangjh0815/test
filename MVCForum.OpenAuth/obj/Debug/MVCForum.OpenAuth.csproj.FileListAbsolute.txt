@@ -1,0 +1,136 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\MVCForum.OpenAuth.dll.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\MVCForum.OpenAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\MVCForum.OpenAuth.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.Core.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.Core.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.InfoCard.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.InfoCard.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.Common.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.Client.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.Provider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenIdOAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.IO.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Net.Http.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Net.Http.Extensions.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Net.Http.Primitives.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Net.Http.WebRequest.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Runtime.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Threading.Tasks.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\Mono.Math.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.Core.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.Core.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.InfoCard.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.InfoCard.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.Common.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.Client.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.Provider.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenIdOAuth.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.IO.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Net.Http.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Net.Http.Extensions.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Net.Http.Primitives.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Net.Http.WebRequest.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Runtime.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\System.Threading.Tasks.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\bin\Debug\Mono.Math.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\obj\Debug\MVCForum.OpenAuth.csproj.App.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\obj\Debug\MVCForum.OpenAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.OpenAuth\obj\Debug\MVCForum.OpenAuth.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\MVCForum.OpenAuth.dll.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\MVCForum.OpenAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\MVCForum.OpenAuth.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.Core.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.Core.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.InfoCard.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.InfoCard.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.Common.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.Client.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.Provider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenIdOAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.IO.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Net.Http.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Net.Http.Extensions.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Net.Http.Primitives.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Net.Http.WebRequest.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Runtime.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Threading.Tasks.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\Mono.Math.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.Core.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.Core.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.InfoCard.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.InfoCard.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.Common.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth.ServiceProvider.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.Client.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.Client.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OAuth2.ResourceServer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.Provider.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.Provider.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenId.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\DotNetOpenAuth.OpenIdOAuth.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.IO.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Net.Http.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Net.Http.Extensions.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Net.Http.Primitives.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Net.Http.WebRequest.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Runtime.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\System.Threading.Tasks.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\bin\Debug\Mono.Math.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\obj\Debug\MVCForum.OpenAuth.csproj.App.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\obj\Debug\MVCForum.OpenAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.OpenAuth\obj\Debug\MVCForum.OpenAuth.pdb

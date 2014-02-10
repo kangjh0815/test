@@ -1,0 +1,72 @@
+15/01/2014 06:09:44 | MVCForum.Website.dll | Application_Start | START APP
+15/01/2014 06:10:24 | MVCForum.Website.dll | Application_Error | Login failed for user 'jkang'.
+15/01/2014 06:16:36 | MVCForum.Website.dll | Application_Error | Login failed for user 'jkang'.
+15/01/2014 06:17:15 | MVCForum.Website.dll | Application_Start | START APP
+15/01/2014 06:19:43 | MVCForum.Website.dll | Application_Error | Login failed for user 'jkang'.
+15/01/2014 06:19:56 | MVCForum.Website.dll | Application_Error | An error occurred when trying to create a controller of type 'MVCForum.Website.Controllers.HomeController'. Make sure that the controller has a parameterless public constructor. INNER EXCEPTION: Resolution of the dependency failed, type = "MVCForum.Website.Controllers.HomeController", name = "(none)".
+Exception occurred while: Calling constructor MVCForum.Services.LocalizationService(MVCForum.Domain.Interfaces.Repositories.ILocalizationRepository localizationRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService).
+Exception is: ProviderIncompatibleException - An error occurred while getting provider information from the database. This can be caused by Entity Framework using an incorrect connection string. Check the inner exceptions for details and ensure that the connection string is correct.
+-----------------------------------------------
+At the time of the exception, the container was:
+
+  Resolving MVCForum.Website.Controllers.HomeController,(none)
+  Resolving parameter "membershipService" of constructor MVCForum.Website.Controllers.HomeController(MVCForum.Domain.Interfaces.Services.ILoggingService loggingService, MVCForum.Domain.Interfaces.UnitOfWork.IUnitOfWorkManager unitOfWorkManager, MVCForum.Domain.Interfaces.Services.IActivityService activityService, MVCForum.Domain.Interfaces.Services.IMembershipService membershipService, MVCForum.Domain.Interfaces.Services.ITopicService topicService, MVCForum.Domain.Interfaces.Services.ILocalizationService localizationService, MVCForum.Domain.Interfaces.Services.IRoleService roleService, MVCForum.Domain.Interfaces.Services.ISettingsService settingsService)
+    Resolving MVCForum.Services.MembershipService,(none) (mapped from MVCForum.Domain.Interfaces.Services.IMembershipService, (none))
+    Resolving parameter "localizationService" of constructor MVCForum.Services.MembershipService(MVCForum.Domain.Interfaces.Repositories.IMembershipRepository membershipRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.IEmailService emailService, MVCForum.Domain.Interfaces.Services.ILocalizationService localizationService, MVCForum.Domain.Interfaces.Services.IActivityService activityService, MVCForum.Domain.Interfaces.Services.IPrivateMessageService privateMessageService, MVCForum.Domain.Interfaces.Services.IMembershipUserPointsService membershipUserPointsService, MVCForum.Domain.Interfaces.Services.ITopicNotificationService topicNotificationService, MVCForum.Domain.Interfaces.Services.IVoteService voteService, MVCForum.Domain.Interfaces.Services.IBadgeService badgeService, MVCForum.Domain.Interfaces.Services.ICategoryNotificationService categoryNotificationService, MVCForum.Domain.Interfaces.API.IMVCForumAPI api, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService)
+      Resolving MVCForum.Services.LocalizationService,(none) (mapped from MVCForum.Domain.Interfaces.Services.ILocalizationService, (none))
+      Calling constructor MVCForum.Services.LocalizationService(MVCForum.Domain.Interfaces.Repositories.ILocalizationRepository localizationRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService)
+ INNER EXCEPTION: An error occurred while getting provider information from the database. This can be caused by Entity Framework using an incorrect connection string. Check the inner exceptions for details and ensure that the connection string is correct. INNER EXCEPTION: The provider did not return a ProviderManifestToken string. INNER EXCEPTION: Login failed for user 'jkang'.
+15/01/2014 06:23:32 | MVCForum.Website.dll | Application_Start | START APP
+15/01/2014 06:24:05 | MVCForum.Website.dll | Application_Error | Login failed for user 'jkang'.
+15/01/2014 06:24:31 | MVCForum.Website.dll | Application_Start | START APP
+15/01/2014 06:24:37 | MVCForum.Website.dll | Application_Error | Login failed for user 'kang'.
+15/01/2014 06:46:49 | MVCForum.Website.dll | Application_Error | An error occurred when trying to create a controller of type 'MVCForum.Website.Controllers.HomeController'. Make sure that the controller has a parameterless public constructor. INNER EXCEPTION: Resolution of the dependency failed, type = "MVCForum.Website.Controllers.HomeController", name = "(none)".
+Exception occurred while: Calling constructor MVCForum.Services.LocalizationService(MVCForum.Domain.Interfaces.Repositories.ILocalizationRepository localizationRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService).
+Exception is: EntityCommandExecutionException - An error occurred while executing the command definition. See the inner exception for details.
+-----------------------------------------------
+At the time of the exception, the container was:
+
+  Resolving MVCForum.Website.Controllers.HomeController,(none)
+  Resolving parameter "membershipService" of constructor MVCForum.Website.Controllers.HomeController(MVCForum.Domain.Interfaces.Services.ILoggingService loggingService, MVCForum.Domain.Interfaces.UnitOfWork.IUnitOfWorkManager unitOfWorkManager, MVCForum.Domain.Interfaces.Services.IActivityService activityService, MVCForum.Domain.Interfaces.Services.IMembershipService membershipService, MVCForum.Domain.Interfaces.Services.ITopicService topicService, MVCForum.Domain.Interfaces.Services.ILocalizationService localizationService, MVCForum.Domain.Interfaces.Services.IRoleService roleService, MVCForum.Domain.Interfaces.Services.ISettingsService settingsService)
+    Resolving MVCForum.Services.MembershipService,(none) (mapped from MVCForum.Domain.Interfaces.Services.IMembershipService, (none))
+    Resolving parameter "localizationService" of constructor MVCForum.Services.MembershipService(MVCForum.Domain.Interfaces.Repositories.IMembershipRepository membershipRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.IEmailService emailService, MVCForum.Domain.Interfaces.Services.ILocalizationService localizationService, MVCForum.Domain.Interfaces.Services.IActivityService activityService, MVCForum.Domain.Interfaces.Services.IPrivateMessageService privateMessageService, MVCForum.Domain.Interfaces.Services.IMembershipUserPointsService membershipUserPointsService, MVCForum.Domain.Interfaces.Services.ITopicNotificationService topicNotificationService, MVCForum.Domain.Interfaces.Services.IVoteService voteService, MVCForum.Domain.Interfaces.Services.IBadgeService badgeService, MVCForum.Domain.Interfaces.Services.ICategoryNotificationService categoryNotificationService, MVCForum.Domain.Interfaces.API.IMVCForumAPI api, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService)
+      Resolving MVCForum.Services.LocalizationService,(none) (mapped from MVCForum.Domain.Interfaces.Services.ILocalizationService, (none))
+      Calling constructor MVCForum.Services.LocalizationService(MVCForum.Domain.Interfaces.Repositories.ILocalizationRepository localizationRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService)
+ INNER EXCEPTION: An error occurred while executing the command definition. See the inner exception for details. INNER EXCEPTION: Invalid object name 'dbo.Settings'.
+15/01/2014 06:47:24 | MVCForum.Website.dll | Application_Start | START APP
+15/01/2014 06:49:06 | MVCForum.Website.dll | Application_Start | START APP
+15/01/2014 06:58:13 | MVCForum.Website.dll | Application_Error | Object reference not set to an instance of an object.
+15/01/2014 06:58:37 | MVCForum.Website.dll | Application_Start | START APP
+15/01/2014 07:03:56 | MVCForum.Website.dll | Application_Error | An error occurred when trying to create a controller of type 'MVCForum.Website.Controllers.HomeController'. Make sure that the controller has a parameterless public constructor. INNER EXCEPTION: Resolution of the dependency failed, type = "MVCForum.Website.Controllers.HomeController", name = "(none)".
+Exception occurred while: Calling constructor MVCForum.Services.LocalizationService(MVCForum.Domain.Interfaces.Repositories.ILocalizationRepository localizationRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService).
+Exception is: EntityException - The underlying provider failed on Open.
+-----------------------------------------------
+At the time of the exception, the container was:
+
+  Resolving MVCForum.Website.Controllers.HomeController,(none)
+  Resolving parameter "membershipService" of constructor MVCForum.Website.Controllers.HomeController(MVCForum.Domain.Interfaces.Services.ILoggingService loggingService, MVCForum.Domain.Interfaces.UnitOfWork.IUnitOfWorkManager unitOfWorkManager, MVCForum.Domain.Interfaces.Services.IActivityService activityService, MVCForum.Domain.Interfaces.Services.IMembershipService membershipService, MVCForum.Domain.Interfaces.Services.ITopicService topicService, MVCForum.Domain.Interfaces.Services.ILocalizationService localizationService, MVCForum.Domain.Interfaces.Services.IRoleService roleService, MVCForum.Domain.Interfaces.Services.ISettingsService settingsService)
+    Resolving MVCForum.Services.MembershipService,(none) (mapped from MVCForum.Domain.Interfaces.Services.IMembershipService, (none))
+    Resolving parameter "localizationService" of constructor MVCForum.Services.MembershipService(MVCForum.Domain.Interfaces.Repositories.IMembershipRepository membershipRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.IEmailService emailService, MVCForum.Domain.Interfaces.Services.ILocalizationService localizationService, MVCForum.Domain.Interfaces.Services.IActivityService activityService, MVCForum.Domain.Interfaces.Services.IPrivateMessageService privateMessageService, MVCForum.Domain.Interfaces.Services.IMembershipUserPointsService membershipUserPointsService, MVCForum.Domain.Interfaces.Services.ITopicNotificationService topicNotificationService, MVCForum.Domain.Interfaces.Services.IVoteService voteService, MVCForum.Domain.Interfaces.Services.IBadgeService badgeService, MVCForum.Domain.Interfaces.Services.ICategoryNotificationService categoryNotificationService, MVCForum.Domain.Interfaces.API.IMVCForumAPI api, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService)
+      Resolving MVCForum.Services.LocalizationService,(none) (mapped from MVCForum.Domain.Interfaces.Services.ILocalizationService, (none))
+      Calling constructor MVCForum.Services.LocalizationService(MVCForum.Domain.Interfaces.Repositories.ILocalizationRepository localizationRepository, MVCForum.Domain.Interfaces.Repositories.ISettingsRepository settingsRepository, MVCForum.Domain.Interfaces.Services.ILoggingService loggingService)
+ INNER EXCEPTION: The underlying provider failed on Open. INNER EXCEPTION: Cannot open database "mvcforum" requested by the login. The login failed.
+Login failed for user 'kang'.
+15/01/2014 07:17:58 | MVCForum.Website.dll | Application_Error | Object reference not set to an instance of an object.
+15/01/2014 07:18:16 | MVCForum.Website.dll | Application_Start | START APP
+17/01/2014 03:50:34 | MVCForum.Website.dll | Application_Start | START APP
+18/01/2014 03:55:54 | MVCForum.Website.dll | Application_Start | START APP
+19/01/2014 05:40:45 | MVCForum.Website.dll | Application_Start | START APP
+19/01/2014 05:40:49 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 05:41:42 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 05:43:35 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 05:44:25 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 05:45:01 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 05:46:01 | MVCForum.Website.dll | Application_Start | START APP
+19/01/2014 05:46:03 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 05:48:41 | MVCForum.Website.dll | Application_Start | START APP
+19/01/2014 05:48:42 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 05:49:36 | MVCForum.Website.dll | Application_Start | START APP
+19/01/2014 05:49:37 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 05:52:07 | MVCForum.Website.dll | Application_Error | Path '/Views/Home/Index.cshtml' was not found.
+19/01/2014 06:58:39 | MVCForum.Website.dll | Application_Start | START APP
+29/01/2014 04:30:40 | MVCForum.Website.dll | Application_Start | START APP

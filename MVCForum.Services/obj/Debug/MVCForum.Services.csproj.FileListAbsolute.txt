@@ -1,0 +1,54 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MVCForum.Services.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MVCForum.Services.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\EFCachingProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\EFCachingProvider.Web.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MVCForum.Lucene.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\WebActivator.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\Lucene.Net.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\EFCachingProvider.Web.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\EFCachingProvider.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MVCForum.Lucene.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\Lucene.Net.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\bin\Debug\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\obj\Debug\MVCForum.Services.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\obj\Debug\MVCForum.Services.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Services\obj\Debug\MVCForum.Services.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MVCForum.Services.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MVCForum.Services.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\EFCachingProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\EFCachingProvider.Web.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MVCForum.Lucene.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\WebActivator.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\Lucene.Net.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\EFCachingProvider.Web.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\EFCachingProvider.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MVCForum.Lucene.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\Lucene.Net.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\bin\Debug\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\obj\Debug\MVCForum.Services.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\obj\Debug\MVCForum.Services.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Services\obj\Debug\MVCForum.Services.pdb

@@ -1,0 +1,243 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Website.dll.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Website.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Website.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\AjaxMin.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Badges.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DataAnnotationsExtensions.ClientValidation.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DataAnnotationsExtensions.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.Core.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.Core.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.InfoCard.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.InfoCard.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth.Common.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.Client.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.Provider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenIdOAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EcmaScript.NET.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EFCachingProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EFCachingProvider.Web.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Facebook.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Iesi.Collections.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\LowercaseRoutesMVC.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Microsoft.Web.Infrastructure.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.IOC.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Lucene.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.OpenAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\SquishIt.Framework.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\SquishIt.Mvc.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.IO.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Net.Http.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Net.Http.Extensions.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Net.Http.Primitives.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Net.Http.WebRequest.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Runtime.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Threading.Tasks.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\WebActivator.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Yahoo.Yui.Compressor.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Microsoft.Practices.Unity.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Unity.Mvc3.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Data.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Services.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.API.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Lucene.Net.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Org.Mentalis.Security.Cryptography.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EntityFramework.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Mono.Math.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Badges.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EFCachingProvider.Web.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EFCachingProvider.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.IOC.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Lucene.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.OpenAuth.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.Core.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.Core.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.InfoCard.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.InfoCard.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth.Common.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.Client.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.Provider.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenId.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\DotNetOpenAuth.OpenIdOAuth.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Facebook.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\LowercaseRoutesMVC.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.IO.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Net.Http.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Net.Http.Extensions.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Net.Http.Primitives.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Net.Http.WebRequest.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Runtime.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\System.Threading.Tasks.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Microsoft.Practices.Unity.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Data.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.Services.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MVCForum.API.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Lucene.Net.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Org.Mentalis.Security.Cryptography.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\EntityFramework.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\bin\Mono.Math.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\obj\Debug\MVCForum.Website.csproj.App.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\obj\Debug\MVCForum.Website.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\obj\Debug\MVCForum.Website.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Website\obj\Debug\MVCForum.Website.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Website.dll.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Website.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Website.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\AjaxMin.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Badges.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DataAnnotationsExtensions.ClientValidation.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DataAnnotationsExtensions.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.Core.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.Core.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.InfoCard.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.InfoCard.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth.Common.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.Client.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.Provider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenIdOAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EcmaScript.NET.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EFCachingProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EFCachingProvider.Web.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Facebook.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Iesi.Collections.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\LowercaseRoutesMVC.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Microsoft.Web.Infrastructure.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.IOC.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Lucene.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.OpenAuth.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\SquishIt.Framework.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\SquishIt.Mvc.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.IO.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Net.Http.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Net.Http.Extensions.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Net.Http.Primitives.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Net.Http.WebRequest.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Runtime.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Threading.Tasks.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\WebActivator.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Yahoo.Yui.Compressor.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Microsoft.Practices.Unity.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Unity.Mvc3.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Data.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Services.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.API.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Lucene.Net.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Org.Mentalis.Security.Cryptography.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EntityFramework.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Mono.Math.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Badges.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EFCachingProvider.Web.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EFCachingProvider.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.IOC.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Lucene.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.OpenAuth.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\AjaxMin.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.Core.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.Core.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.InfoCard.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.InfoCard.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth.Common.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.Client.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.Provider.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenId.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\DotNetOpenAuth.OpenIdOAuth.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Facebook.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\LowercaseRoutesMVC.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\SquishIt.Framework.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\SquishIt.Mvc.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.IO.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Net.Http.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Net.Http.Extensions.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Net.Http.Primitives.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Net.Http.WebRequest.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Runtime.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\System.Threading.Tasks.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Microsoft.Practices.Unity.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Data.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.Services.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MVCForum.API.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Lucene.Net.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Org.Mentalis.Security.Cryptography.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\EntityFramework.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\bin\Mono.Math.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\obj\Debug\MVCForum.Website.csproj.App.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\obj\Debug\MVCForum.Website.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\obj\Debug\MVCForum.Website.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Website\obj\Debug\MVCForum.Website.pdb

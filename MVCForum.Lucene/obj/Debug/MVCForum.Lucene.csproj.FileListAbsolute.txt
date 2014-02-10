@@ -1,0 +1,36 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\MVCForum.Lucene.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\MVCForum.Lucene.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\Lucene.Net.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\Lucene.Net.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\bin\Debug\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\obj\Debug\MVCForum.Lucene.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\obj\Debug\MVCForum.Lucene.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Lucene\obj\Debug\MVCForum.Lucene.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\MVCForum.Lucene.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\MVCForum.Lucene.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\Lucene.Net.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\Lucene.Net.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\bin\Debug\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\obj\Debug\MVCForum.Lucene.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\obj\Debug\MVCForum.Lucene.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Lucene\obj\Debug\MVCForum.Lucene.pdb

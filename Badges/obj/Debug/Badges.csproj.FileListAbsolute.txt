@@ -1,0 +1,15 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\Badges.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\Badges.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\MVCForum.Domain.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\MVCForum.Utilities.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\HtmlAgilityPack.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\AntiXssLibrary.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\MarkdownSharp.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\MVCForum.Domain.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\MVCForum.Utilities.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\HtmlAgilityPack.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\AntiXssLibrary.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\bin\Debug\MarkdownSharp.xml
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\obj\Debug\Badges.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\obj\Debug\Badges.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\Badges\obj\Debug\Badges.pdb

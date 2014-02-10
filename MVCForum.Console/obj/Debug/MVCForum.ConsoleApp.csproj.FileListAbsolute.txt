@@ -1,0 +1,10 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Console\bin\Debug\MVCForum.ConsoleApp.exe.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Console\bin\Debug\MVCForum.ConsoleApp.exe
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Console\bin\Debug\MVCForum.ConsoleApp.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Console\obj\Debug\MVCForum.ConsoleApp.exe
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\MVCForum.Console\obj\Debug\MVCForum.ConsoleApp.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Console\bin\Debug\MVCForum.ConsoleApp.exe.config
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Console\bin\Debug\MVCForum.ConsoleApp.exe
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Console\bin\Debug\MVCForum.ConsoleApp.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Console\obj\Debug\MVCForum.ConsoleApp.exe
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\MVCForum.Console\obj\Debug\MVCForum.ConsoleApp.pdb

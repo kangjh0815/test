@@ -1,0 +1,83 @@
+﻿@using MVCForum.Website.Application
+@using MVCForum.Website.ViewModels
+
+@model ActiveTopicsViewModel
+@{    
+    ViewBag.Title = Html.Settings().ForumName;
+    var totalCount = Convert.ToInt32(Model.TotalCount);
+    ViewBag.Canonical = Html.Raw(AppHelpers.CanonicalPagingTag(totalCount, Html.Settings().TopicsPerPage, Html));
+}
+
+@section side
+{
+    @Html.Action("ListCategorySideMenu", "Category") 
+    @Html.Action("SideSearch", "Search")
+    @Html.Action("PopularTags", "Tag")
+    @Html.Action("CurrentWeekHighPointUsers", "Point")
+}
+@*<div>
+    <iframe width="800"  height="600" src="http://www.umich.edu" id="iFrameTest">*@
+</iframe>
+
+</div>
+
+<div class="row-fluid latesttopicsheader">
+    
+    <div class="span8 latesttopicheading">
+      <h2>@Html.LanguageString("Home.LatestDiscussions")</h2>  
+    </div>
+    <div class="span4 latesttopicrss">
+        @if (Html.Settings().EnableRSSFeeds)
+        {
+            <a href="@Url.Action("LatestRss", "Home")" class="rsssubscribe" title="@Html.LanguageString("Home.Rss")">@Html.LanguageString("Home.Rss")</a>   
+        }  
+    </div>
+
+</div>
+
+@foreach (var topic in Model.Topics)
+{
+    // Get the permissions for this topic via its parent category
+    var permissions = Model.AllPermissionSets[topic.Category];
+
+    var viewModel = new ViewTopicViewModel { Permissions = permissions, Topic = topic, User = Model.User, ShowCategoryName = true };
+    Html.RenderPartial("_Topic", viewModel);
+}
+
+@if (Model.Topics.TotalPages > 1)
+{
+    @Html.Pager(Convert.ToInt32(Model.PageIndex), Html.Settings().TopicsPerPage, totalCount, null)
+}
+
+@section footer
+{
+              <div>
+
+                <input type="button" onclick="load('http://www.yelp.com/irvine-ca-us')" value="page 1" />
+                <input type="button" onclick="load('http://www.yelp.com/biz/le-diplomate-cafe-irvine')" value="page 2" />
+            </div>
+    
+}
+
+
+        <iframe id="my_iframe"></iframe>
+  
+    <script type="text/javascript" src="~/Scripts/jquery-2.0.1.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery-1.8.0.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $("#iFrameTest").hide();
+
+            //$("my_iframe").src = pae;
+
+        });
+    </script>
+
+
+
+    <script>
+        function load(page) {
+            document.getElementById("my_iframe").src = page;
+        }
+    </script>

@@ -1,0 +1,18 @@
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFCachingProvider.Web.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFCachingProvider.Web.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFCachingProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFCachingProvider.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\obj\Debug\EFCachingProvider.Web.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\obj\Debug\EFCachingProvider.Web.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91\EFProvider Wrappers\EFCachingProvider.Web\obj\Debug\EFCachingProvider.Web.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFCachingProvider.Web.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFCachingProvider.Web.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFCachingProvider.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFProviderWrapperToolkit.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFCachingProvider.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\bin\Debug\EFProviderWrapperToolkit.pdb
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\obj\Debug\EFCachingProvider.Web.csprojResolveAssemblyReference.cache
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\obj\Debug\EFCachingProvider.Web.dll
+H:\Dad\MS.NET\MvcForum\themvcforum_f221c7590b91 - Copy\EFProvider Wrappers\EFCachingProvider.Web\obj\Debug\EFCachingProvider.Web.pdb
